@@ -1,0 +1,15 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄøÌüÿÿÿÿ8´«ÎÊï-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë™ÃÖ8øÊáÊï-
+Bsquid:S1170"!Make this final field static too.(ËÃ‰üûÿÿÿÿ8´Êï-
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(óˆ÷©ûÿÿÿÿ8îïÌÊï-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë™ÃÖ8¢èµÊï-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(óˆ÷©ûÿÿÿÿ8Â“ÌÊï-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë™ÃÖ8³°ÑÊï-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(½™ºËúÿÿÿÿ8ğî¯Êï-
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ºÊï-
